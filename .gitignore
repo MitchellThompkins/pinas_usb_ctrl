@@ -1,0 +1,8 @@
+# Ignore vim generated content
+*.swp
+
+# Ignore build dirs & files
+bin.*
+CMakeFiles.*
+cmake_install.*
+Makefile

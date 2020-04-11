@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++0x -Wall -Wextra -Werror   CMakeFiles/HelloWorld.dir/hello_world.cpp.o CMakeFiles/HelloWorld.dir/main.cpp.o  -o ../bin/HelloWorld 

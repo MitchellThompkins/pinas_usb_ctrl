@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tthompkins/workspace/pinas_data_control/src/hello_world.cpp
+hello_world.hpp
+/home/tthompkins/workspace/pinas_data_control/src/hello_world.hpp
+iostream
+-
+
+/home/tthompkins/workspace/pinas_data_control/src/main.cpp
+hello_world.hpp
+/home/tthompkins/workspace/pinas_data_control/src/hello_world.hpp
+
+include/hello_world.hpp
+stdint.h
+include/stdint.h
+
